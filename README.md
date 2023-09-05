@@ -1,6 +1,6 @@
 # Jenkins-pipeline
 Created with CodeSandbox
-This is Emoji Interpreter App where you can click on any emoji's and can get the meaning of it . This is my First  Basic React Js Project.
+This is Emoji Interpreter App where you can click on any emoji's and can get the meaning of it .an Basic React Js Project.
 
 i have deployed the frontend on aws s3 with the help of jenkins pipeline.
 pipeline script is inside JENKINSfile
