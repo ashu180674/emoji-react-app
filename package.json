@@ -8,9 +8,12 @@
     "font-awesome": "4.7.0",
     "react": "17.0.0",
     "react-dom": "17.0.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^3.4.3"
   },
   "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard": "^34.0.0",
     "typescript": "3.8.3"
   },
   "scripts": {
